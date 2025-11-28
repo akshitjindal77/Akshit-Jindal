@@ -1,85 +1,48 @@
-### <div align="center">Akshit Jindal 
-<span style="color:#00eaff;">AI Developer • CIS Student @ UFV • Full-Stack & ML Engineer</span>
-</div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitjindal&theme=neon-dark&hide_border=true" alt="streak stats"/> </div>
+# Akshit Jindal
+<p align="center">AI Developer | CIS Student @ UFV | Full-Stack & ML Engineer</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitjindal&theme=neon-dark&hide_border=true" alt="GitHub streak stats" />
+</p>
 
-### 🧬 About Me
+## About Me
+- Computer Information Systems student at the University of the Fraser Valley (Canada).
+- Build intelligent systems that combine AI, ML, and full-stack engineering for real-world impact.
+- Enjoy fast iteration: ship prototypes, measure, refine.
 
-I’m Akshit, a Computer Information Systems student at the University of the Fraser Valley (Canada), passionate about building intelligent systems and solving real-world problems using AI, ML, and full-stack engineering.
+## What I Build
+- AI routing systems such as ContextOS (multi-model AI router demo).
+- ML pipelines for vision and NLP (face recognition, spam classifier).
+- Real-time computer vision apps with OpenCV and InsightFace.
+- Fast, clean backend APIs with FastAPI.
+- Security research and IoT assessments.
 
-### I love creating:
+## Tech Stack
+**Languages:** Python | JavaScript | Java | C | SQL | Bash  
+**Frameworks/Libraries:** FastAPI | Streamlit | Node.js | OpenCV | scikit-learn | InsightFace | TensorFlow | Keras  
+**Databases/Tools:** Firebase | MongoDB | SQLite | Docker | Postman | Git
 
-- ⚙️ AI integration systems (ContextOS – AI Router Demo)
-- 🧠 ML pipelines (Face Recognition, Spam Classifier)
-- 🛡️ Cybersecurity research projects
-- 🎛️ Fast, clean backend APIs with FastAPI
-- 📹 Real-time CV applications using OpenCV + InsightFace
+## Featured Work
+- **ContextOS - AI Router Demo:** Multi-model routing engine that picks the best model (GPT, Claude, Gemini, Ollama) using a model registry and adapter pattern.
+- **Face Recognition System:** InsightFace embeddings with SVM calibration and a Streamlit dashboard supporting live camera, registration, and labeled database search.
+- **Meeting Minutes Generator:** Audio -> transcription -> summaries -> action items for lectures, meetings, and interviews.
+- **Email Spam Classifier:** Linear SVM trained on the Kaggle spam dataset with TF-IDF features.
+- **Stock Price Predictor:** LSTM/Prophet experiments for short-horizon forecasts with feature engineering and backtesting.
+- **IoT Security Assessment:** Firmware reversing, Shodan scans, threat modeling, and vulnerability reporting.
 
-### ⚡ Tech Stack
-## 🔹 Languages
+## Currently Learning
+- Cloud computing
+- Advanced ML and computer vision
+- Cybersecurity tools and threat analysis
+- Firebase authentication and backend architecture
 
-Python JavaScript Java C SQL Bash
+## Connect
+- Email: [jindalakshit359@gmail.com](mailto:jindalakshit359@gmail.com)
+- LinkedIn: [linkedin.com/in/akshit-jindal](https://www.linkedin.com/in/akshit-jindal)
 
-## 🔹 Frameworks & Libraries
+## Fun Zone
+- F1 and car enthusiast
+- Loves trying aesthetic room setups
+- Breaks code to rebuild it better
+- Always juggling multiple projects
 
-FastAPI Streamlit Node.js
-OpenCV Scikit-Learn InsightFace
-TensorFlow Keras
-
-## 🔹 Databases & Tools
-
-Firebase MongoDB SQLite
-Docker Postman Git
-
-### 🚀 Featured Work
-## 🔥 ContextOS – AI Router Demo
-
-A multi-model routing engine that chooses the best AI model (GPT, Claude, Gemini, Ollama).
-Tech: FastAPI, Model Registry, Custom Routing Logic, Adapter Pattern.
-
-## 🔥 Face Recognition System
-
-InsightFace embeddings + SVM + calibration + Streamlit dashboard.
-Supports: live camera, registration, recognition, labeled database.
-
-## 🔥 Meeting Minutes Generator
-
-Audio → Transcription → Summaries → Action Items.
-Great for lectures, meetings, and interviews.
-
-## 🔥 Email Spam Classifier
-
-Linear SVM trained on Kaggle spam dataset using TF-IDF features.
-
-## 🔥 IoT Security Assessment
-
-Reverse engineering firmware, Shodan scans, threat modeling, vulnerability reporting.
-
-### 📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshitjindal&show_icons=true&theme=tokyonight&hide_border=true" height="160px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitjindal&layout=compact&theme=tokyonight&hide_border=true" height="160px"/> </div>
-
-### 🌱 Currently Learning
-
-- ☁️ Cloud Computing
-- 🧠 Advanced ML + Computer Vision
-- 🕵️ Cybersecurity Tools & Threat Analysis
-- 🔥 Firebase Authentication + Backend Architecture
-
-### 🌐 Connect With Me
-
-📩 Email: jindalakshit359@gmail.com
-💼 LinkedIn: www.linkedin.com/in/akshit-jindal
-
-
-### ✨ Fun Zone
-
-- 🏎️ F1 & cars enthusiast
-- 📸 Loves trying aesthetic room setups
-- 🧩 Breaks code to rebuild it better
-- 💡 Always working on 3–5 projects at once 😄
-
-<div align="center">
-🔥 “Build. Break. Improve. Repeat.”
-
-⭐ If you like my work, don’t forget to star my repos!
-
-</div>
+<p align="center"><b>Build. Break. Improve. Repeat.</b></p>
